@@ -1,0 +1,9 @@
+C:\Users\denci\source\repos\2SD\2SD\x64\Debug\2SD.vcxproj.AssemblyReference.cache
+C:\Users\denci\source\repos\2SD\2SD\x64\Debug\_2SD.Form1.resources
+C:\Users\denci\source\repos\2SD\2SD\x64\Debug\2SD.vcxproj.GenerateResource.cache
+C:\Users\Saulius\Desktop\2-Savarankiskas-Darbas-main\2SD\2SD\x64\Debug\2SD.vcxproj.AssemblyReference.cache
+C:\Users\Saulius\Desktop\2-Savarankiskas-Darbas-main\2SD\2SD\x64\Debug\_2SD.Form1.resources
+C:\Users\Saulius\Desktop\2-Savarankiskas-Darbas-main\2SD\2SD\x64\Debug\2SD.vcxproj.GenerateResource.cache
+C:\Users\Saulius\source\repos\2SD\2SD\2SD\x64\Debug\2SD.vcxproj.AssemblyReference.cache
+C:\Users\Saulius\source\repos\2SD\2SD\2SD\x64\Debug\_2SD.Form1.resources
+C:\Users\Saulius\source\repos\2SD\2SD\2SD\x64\Debug\2SD.vcxproj.GenerateResource.cache
